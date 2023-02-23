@@ -1,0 +1,45 @@
+.body{
+  padding-top: 50px;
+  background-color: rgb(62, 184, 221);
+  max-width: 50%;
+  margin: auto; 
+  margin-top: 15%;
+  padding: 50px;
+  border-radius: 20px;
+  
+
+}
+h1{
+  text-align: center;
+  color: white !important;
+  font-weight: 700;
+  font-size: large !important;
+  font-family: sans-serif, Impact, Haettenschweiler;
+  
+ 
+}
+
+input{
+  max-width: 100% !important;
+  margin-left: -35px;
+  /* margin-top: 10%; */
+  border: 1px solid transparent; 
+  inherits: none;
+  background-color: aliceblue;
+  
+  
+  
+
+}
+
+.rw_div{
+  margin: auto;
+  /* padding: 70px, 1000px, 50px, 50px; */
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+}
+form{
+  margin-top: 20% !important;
+}
+
